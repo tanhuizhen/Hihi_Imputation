@@ -1,4 +1,4 @@
-Pipelines and analysis codes for the following paper: Tan, H. Z., Stuart, K. C., Vi, T., Whibley, A., Bailey, S., Brekke, P., Santure, A. W. (2025). High imputation accuracy can be achieved using a small reference panel in a natural population with low genetic diversity. Molecular Ecology Resources, 25(8), e70024. https://doi.org/10.1111/1755-0998.70024
+Pipelines and analysis codes for the following paper: Tan, H. Z., Stuart, K. C., Vi, T., Whibley, A., Bailey, S., Brekke, P., Santure, A. W. (2025). High imputation accuracy can be achieved using a small reference panel in a natural population with low genetic diversity. _Molecular Ecology Resources, 25_(8), e70024. https://doi.org/10.1111/1755-0998.70024
 
 Folder names correspond to the sections in 'Materials and methods'.
 
